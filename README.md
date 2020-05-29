@@ -64,7 +64,7 @@ Confira as principais diferenças entre os 2 conceitos:
 
 ## Teoria da Evolução de Darwin
 
-![Polimorfismo](https://raw.githubusercontent.com/Marcelo-Diament/tn15-poo-aula03-pronto/master/assets/img/polimorfismo.png)
+![Polimorfismo](https://raw.githubusercontent.com/Marcelo-Diament/tn15-poo-aula03/master/assets/img/polimorfismo.png)
 
 Replicaremos a Teoria da Evolução das Espécies, de Darwin, para aplicarmos o conceito de Polimorfismo. Não nos aprofundaremos tanto assim, pois a ideia desse módulo é que compreendam como funciona a Programação Orientada a Objetos, para que possamos prosseguir para o módulo de PDO (uma classe feita para realizarmos o CRUD em banco de dados como o MySQL, que veremos no próximo módulo) e para entendermos o funcionamento do Laravel (framework que veremos mais para o final do curso).
 Mas vale a pena estudarem mais sobre o tema, criarem projetos próprios para treinarem, estudarem e se depararem com desafios, a fim de que cresçam como desenvolvedores, façam o melhor uso das ferramentas disponíveis para nós, programadores, e possam inclusive estudar novas linguagens e frameworks após a conclusão desse curso! ;)
