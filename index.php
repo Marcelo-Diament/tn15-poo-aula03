@@ -11,7 +11,7 @@
             </div>
         </article>
         <article class="col-12 col-lg-6 p-3 mx-auto">
-            <img class="col-12 m-0 p-0 rounded-top border-top border-left border-right" src="./assets/img/polimorfismo.png" alt="Polimorfismo" width="100%" height="auto">
+            <img class="col-12 m-0 p-0 rounded-top border-top border-left border-right" src="./assets/img/animais-vertebrados.png" alt="Polimorfismo" width="100%" height="auto">
             <div class="col-12 m-0 px-0 py-3 row bg-light rounded-bottom">
                 <h2 class="col-12">Animais Vertebrados</h2>
                 <p class="col-12">A classe de Animais Vertebrados agrupa características em comum a todos seus herdeiros</p>
