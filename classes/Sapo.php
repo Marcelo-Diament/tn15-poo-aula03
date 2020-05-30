@@ -8,15 +8,6 @@
             return "Pulo";
         }
 
-        public function getEspecificidade()
-        {
-            return $this->seTransformar();
-        }
-
-        public function seTransformar() {
-            return "De girino virei sapo";
-        }
-
     }
 
 ?>

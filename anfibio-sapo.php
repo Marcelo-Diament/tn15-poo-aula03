@@ -57,6 +57,7 @@ require_once("./inc/header.php");
                         <tr class="bg-warning font-weight-bold">
                             <td>Especificidade</td>
                             <td><?= $anfibio->getEspecificidade() ?></td>
+                            <?php $sapo->setEspecificidade("De girino virei sapo"); ?>
                             <td><?= $sapo->getEspecificidade() ?></td>
                             <td>Propriedade <b>privada declarada e defininda na classe Anfibio e sobrescrita em Sapo</b></td>
                         </tr>

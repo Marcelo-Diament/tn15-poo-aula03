@@ -30,8 +30,8 @@
             return $this->especificidade;
         }
 
-        public function setEspecificidade($especificidade) {
-            $this->especificidade = $especificidade;
+        public function setEspecificidade($especificidadeRecebida) {
+            $this->especificidade = $especificidadeRecebida;
         }
 
     }
